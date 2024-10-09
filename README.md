@@ -27,8 +27,6 @@ To get started with this project, follow these steps:
 git clone https://github.com/willeynimbus/news-headlines.git
 ```
 
-Replace `your-username` with the actual username of the repository owner.
-
 2. **Change into the project directory**: Navigate into the cloned repository:
 
 ```bash
